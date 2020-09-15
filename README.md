@@ -1,4 +1,4 @@
-![Header image](https://raw.githubusercontent.com/m-griffith/m-griffith/master/headergif.gif)<style border-radius: 15px </style>
+![Header image](https://raw.githubusercontent.com/m-griffith/m-griffith/master/headergif.gif)
 <!-- You can create your own header images using Canva, it has a lot of templates. -->
 
 I'm new here <strong style="font-size:20px">🙃</strong> 
